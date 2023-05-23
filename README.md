@@ -4,3 +4,12 @@
 
   1. Create a new repository with GIT - GITHUB
   2. Create a virtual enviorement
+  3. Evil command teacher:
+ 
+  ```bash
+  git log --oneline --decorate --graph --all
+  ```
+  4. Crear jupyter notebook en VSCode
+  5. Ver sintaxis basica
+  6. Ejercicio de numero al asar
+  7. Ejercicio de consumir un api: [JSONPlaceholder] (https://jsonplaceholder.typicode.com)
