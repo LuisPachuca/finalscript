@@ -13,3 +13,4 @@
   5. Ver sintaxis basica
   6. Ejercicio de numero al asar
   7. Ejercicio de consumir un api: [JSONPlaceholder] (https://jsonplaceholder.typicode.com)
+  8. Se realizo un nuevo ejercicio donde la computadora debe de adivinar el numero ingresado.
